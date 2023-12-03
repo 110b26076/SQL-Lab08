@@ -1,2 +1,2 @@
-SELECT COUNT(*) AS §Ω•q¡`§Hº∆
+SELECT COUNT(*) AS ÂÖ¨Âè∏Á∏Ω‰∫∫Êï∏
 FROM Employee
