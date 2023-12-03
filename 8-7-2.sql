@@ -1,2 +1,2 @@
-SELECT COUNT(*) AS ¾P°âµ§¼Æ
+SELECT COUNT(*) AS éŠ·å”®ç­†æ•¸
 FROM Sales;
