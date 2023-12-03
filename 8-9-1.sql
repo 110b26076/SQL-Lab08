@@ -1,3 +1,3 @@
-SELECT S_id, COUNT(*)AS ╛P░т▓гл~║╪├■╝╞
+SELECT S_id, COUNT(*)AS щК╖хФочФвхУБчиощбЮцХ╕
 FROM Sales
 GROUP BY S_id
