@@ -1,3 +1,3 @@
-SELECT S_id, Quan as ¾P°â¼Æ¶q
+SELECT S_id, Quan as éŠ·å”®æ•¸é‡
 FROM Sales
 WHERE P_id = 'P0005'
