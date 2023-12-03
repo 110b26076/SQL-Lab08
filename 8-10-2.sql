@@ -1,4 +1,4 @@
-SELECT S_id, COUNT(*)AS ¾P°â²£«~ºØÃþ
+SELECT S_id, COUNT(*)AS éŠ·å”®ç”¢å“ç¨®é¡ž
 FROM Sales
 GROUP BY S_id
 HAVING COUNT(*)>= 2
